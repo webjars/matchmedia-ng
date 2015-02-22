@@ -12,7 +12,7 @@
   <groupId>org.webjars</groupId>
   <artifactId>matchmedia-ng</artifactId>
   <version>1.0.5-SNAPSHOT</version>
-  <name>ng-sortable</name>
+  <name>matchmedia-ng</name>
   <description>WebJar for matchmedia-ng</description>
   <url>http://webjars.org</url>
 
@@ -27,10 +27,10 @@
           "matchmedia-ng": "matchmedia-ng"
         },
         "shim": {
-          "matchmedia-ng": ["angularjs"]
+          "matchmedia-ng": ["angular"]
         }
       }
-    </requirejs>    
+    </requirejs>
   </properties>
 
   <developers>
@@ -50,9 +50,9 @@
   </licenses>
 
   <scm>
-    <url>http://github.com/czterocyty/matchmedia-ng-webjar</url>
-    <connection>scm:git:https://github.com/czterocyty/matchmedia-ng-webjar.git</connection>
-    <developerConnection>scm:git:https://github.com/czterocyty/matchmedia-ng-webjar.git</developerConnection>
+    <url>http://github.com/webjars/matchmedia-ng</url>
+    <connection>scm:git:https://github.com/webjars/matchmedia-ng.git</connection>
+    <developerConnection>scm:git:https://github.com/webjars/matchmedia-ng.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
